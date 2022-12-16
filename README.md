@@ -1,4 +1,4 @@
-# Wallpaper Code
+# Wallpaper Java Code
 
 _Just a wallpaper, you can use it on Wallpaper Engine._
 
