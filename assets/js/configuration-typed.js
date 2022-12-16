@@ -1,10 +1,5 @@
-const typed = new Typed(".content-change", {
-  strings: [
-    "<span class='function-name'>&nbsp;&nbsp;&nbsp;repeat();</span>",
-    "<span class='function-name'>&nbsp;&nbsp;&nbsp;fuck();</span>",
-    "<span class='function-name'>&nbsp;&nbsp;&nbsp;beProductive();</span>",
-    "<span class='function-name'>&nbsp;&nbsp;&nbsp;doLiterallyAnything();</span>",
-  ],
+const typed = new Typed(".typed", {
+  stringsElement: "#content-change", // ID of the element containing string children
   typeSpeed: 75, // Speed to type each word
   startDelay: 300, // Speed delay to start the animation. 0 = no delay
   backSpeed: 75, // Speed to clear the text
