@@ -1,11 +1,11 @@
-# Wallpaper Code
+# Wallpaper Java Code
 
 _Just a wallpaper, you can use it on Wallpaper Engine._
 
 ## Built with 🛠️
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Version: ES12
-- [typed.js](https://github.com/mattboldt/typed.js/) - Library -> v2.0.12
+- [Typed.js](https://github.com/mattboldt/typed.js/) - v2.0.12
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - v5
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - v3
 
@@ -15,7 +15,7 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 
 - The objective here is to make a copy of this project and place it in your account.
 - A repository (repo) is how a project is called on GitHub and a fork is a copy of it.
-- Make sure you are on the [main page](https://github.com/lukasotero/wallpaperCode "https://github.com/lukasotero/wallpaperCode") of this repo.
+- Make sure you are on the [main page](https://github.com/lukasotero/wallpaperJavaCode "https://github.com/lukasotero/wallpaperJavaCode") of this repo.
 
 ![Fork](readme-only/fork.jpg)
 
@@ -33,7 +33,7 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 ### Step 3: Create a branch
 
 - Once the repo has been cloned and you have it open in GitHub desktop it is time to create a new branch.
-- A branch is a way to keep your changes separate from the main part of the project called `Master`. For example if things go wrong and you are not happy with your changes you can simply delete the branch and the main project won't be affected.
+- A branch is a way to keep your changes separate from the main part of the project called `master`. For example if things go wrong and you are not happy with your changes you can simply delete the branch and the main project won't be affected.
 
 ![Branch](readme-only/create-branch.jpg)
 
@@ -50,7 +50,7 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 
 - Now we need to open the file we are going to edit with your favourite code editor.
 - Find the project folder on your computer.
-- The `index.html` file is directly in the `wallpaperCode` folder.
+- The `index.html` file is directly in the `wallpaperJavaCode` folder.
 - Now you have the file you are going to edit open in your editor and you are ready to start making changes to it.
 
 ---
@@ -83,7 +83,7 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 - Click on the `Compare and pull request`
 
 - This is what the `Open a pull request` page looks like.
-- REMEMBER _you are trying to merge your branch with the original project not with the `Master` branch on your fork_.
+- REMEMBER _you are trying to merge your branch with the original project not with the `master` branch on your fork_.
 - The image below gives you an idea of how the header of your pull request should look like.
 - On the left is the original project, followed by the master branch. On the right is your fork and the branch you created.
 
