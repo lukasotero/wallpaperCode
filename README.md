@@ -9,6 +9,12 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - v5
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - v3
 
+## Translations 🌐
+
+| English | [Spanish](translations/SPANISH.md) |
+
+> Translations for the README are welcome!.
+
 ## How to contribute 🤝
 
 ### Step 1: Fork this repository
@@ -33,14 +39,14 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 ### Step 3: Create a branch
 
 - Once the repo has been cloned and you have it open in GitHub desktop it is time to create a new branch.
-- A branch is a way to keep your changes separate from the main part of the project called `master`. For example if things go wrong and you are not happy with your changes you can simply delete the branch and the main project won't be affected.
+- A branch is a way to keep your changes separate from the main part of the project called `master`. For example, if things go wrong and you are not happy with your changes you can simply delete the branch and the main project won't be affected.
 
 ![Branch](readme-only/create-branch.jpg)
 
-- You can name it whatever you want, but since this is a branch to add a card with your name to the project
+- You can name it whatever you want, but from that branch, you going to push the new changes.
 
-- Now you have created a new branch separate from the master.
-- For the next steps make sure you are working in this branch. You will see the name of the branch you are on at the top center of the GitHub desktop app where it says _Current branch_.
+- Now you have created a new branch separate from the `master`.
+- For the next steps make sure you are working in this branch. You will see the name of the branch you are on at the top center of the GitHub desktop app, where it says _Current branch_.
 
 **Do NOT work on the `master` branch**
 
@@ -48,10 +54,10 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 
 ### Step 4: Open the index.html file
 
-- Now we need to open the file we are going to edit with your favourite code editor.
+- Now we need to open the file we are going to edit. Open it with your favourite code editor.
 - Find the project folder on your computer.
 - The `index.html` file is directly in the `wallpaperJavaCode` folder.
-- Now you have the file you are going to edit open in your editor and you are ready to start making changes to it.
+- You are ready to start making changes to it.
 
 ---
 
@@ -74,18 +80,17 @@ _Just a wallpaper, you can use it on Wallpaper Engine._
 
 ### Step 6: Submit a PR (Pull Request)
 
-- This is the moment you have been waiting for; submitting a _Pull Request_ (PR).
 - So far all the work you have done has been on the fork of the project, which as you remember resides on your own account of GitHub.
 - Now it's time to send your changes to the main project to be merged with it.
 - This is called a [_Pull Request_](https://help.github.com/articles/about-pull-requests/ "About Pull Requests - GitHub Help") because you are asking the original project maintainer to "pull" your changes into their project.
-- Go to the main page of **your fork** on GitHub (it will have the fork icon and your own user name at the top).
+- Go to the main page of **your fork** on GitHub.
 - Towards the top of the repo you will see a highlighted pull request message with a green button.
-- Click on the `Compare and pull request`
+- Click on the `Compare and pull request`.
 
 - This is what the `Open a pull request` page looks like.
 - REMEMBER _you are trying to merge your branch with the original project not with the `master` branch on your fork_.
 - The image below gives you an idea of how the header of your pull request should look like.
-- On the left is the original project, followed by the master branch. On the right is your fork and the branch you created.
+- On the left is the original project, followed by the `master` branch. On the right is your fork and the branch you created.
 
 ![Open a Pull Request](readme-only/pull-request-branches.jpg)
 
